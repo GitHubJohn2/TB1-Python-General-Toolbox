@@ -1,2 +1,2 @@
 # Python-Toolbox-Doc-Sheet
-This is two summary pages of Python useage meant to be printed front and back and laminated.
+This is four summary pages of Python useage meant to be printed front and back on two sheets of paper and laminated.
